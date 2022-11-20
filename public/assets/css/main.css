@@ -8,14 +8,14 @@
 }
 
 html, body {
-    
+
     /* background-color: #152733; */
-  
-     
+
+
     /* height:100vh; */
     width:100%;
-   
- 
+
+
     overflow-x: hidden;
 }
 /* .bg{
@@ -96,6 +96,8 @@ html, body {
 }
 .logo-img{
     width:100% !important;
+
+
 }
 
 
@@ -192,7 +194,7 @@ html, body {
       flex-direction: column;
       justify-content: start !important;
     align-items: unset !important; */
-     
+
       /* min-height: 100vh; */
 }
 
